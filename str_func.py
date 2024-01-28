@@ -1,3 +1,3 @@
-def raise_letters(text=input()):
-    """Возвращает строку заглавными буквами"""
+def up_letters(text=input()):
+    """Возвращает строку всеми заглавными буквами"""
     return text.upper()
