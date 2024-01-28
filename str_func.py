@@ -4,5 +4,5 @@ def raise_letters(text=input()):
 
 
 def title_letters(text=input()):
-    """Возвращает строку с первыми заглавными буквами"""
+    """Возвращает строку первыми заглавными буквами"""
     return text.title()
